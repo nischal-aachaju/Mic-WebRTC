@@ -564,7 +564,7 @@ function App() {
         return (
             <div className="app">
                 <div className="container">
-                    <h1>PUBG Group Prototype</h1>
+                    <h1>Discuss Hub Mic Prototype</h1>
 
                     <p className="subtitle">
                         Create or join a team
